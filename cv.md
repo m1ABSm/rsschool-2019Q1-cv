@@ -18,7 +18,7 @@ Using search engines, advanced Windows user, HTML, CSS, JS, jQuery, GitHub, VSC,
 ## Examples
 [my educational projects](https://codepen.io/collection/AzMZrE/)
 
-##Education
+## Education
 Currently studying JavaScript Course at The Rolling Scopes School 2019Q1
 
 ## Independent learning
